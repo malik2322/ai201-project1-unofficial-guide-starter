@@ -1,0 +1,346 @@
+Below are 100 realistic questions Texas State University (TXST) students might ask an AI assistant, organized into 11 categories. For each question, I’ve indicated which of the previously collected sources most likely contain the answer. The source labels use the IDs from my earlier retrieval (e.g.,  = r/txstate subreddit). [reddit](https://www.reddit.com/r/txstate/)
+
+***
+
+## Academics (10 questions)
+
+1. **What’s the best way to choose between two required courses for my major?**  
+   Sources:  (r/txstate class/course threads) [reddit](https://www.reddit.com/r/txstate/)
+
+2. **How do I use Degree Works to check if I’m on track to graduate?**  
+   Sources:  (r/txstate advising/registration threads) [reddit](https://www.reddit.com/r/txstate/)
+
+3. **Are there any study spots on campus that are open late and quiet?**  
+   Sources:  (dining/study spots thread),  (general campus life) [reddit](https://www.reddit.com/r/txstate/comments/gxtw4b/texas_state_hows_the_food/)
+
+4. **What should I do if all the classes I need are full during registration?**  
+   Sources:  (registration waitlist threads),  (advising/registration advice) [reddit](https://www.reddit.com/r/txstate/comments/1dsjasz/rate_my_professors/)
+
+5. **How hard is it to get into popular classes like Intro to Psychology or Business Core courses?**  
+   Sources:  (course difficulty threads),  (professor/course discussions) [reddit](https://www.reddit.com/r/txstate/comments/1dsjasz/rate_my_professors/)
+
+6. **What are the common requirements for most majors at Texas State?**  
+   Sources:  (major-specific advice threads) [reddit](https://www.reddit.com/r/txstate/)
+
+7. **Are there any free tutoring centers on campus for difficult courses?**  
+   Sources:  (academic support threads),  (student media may mention services) [sjmc.txst](https://sjmc.txst.edu/get-involved/student-media.html)
+
+8. **How do I find out which classes have the most group work or projects?**  
+   Sources:  (professor/course eval threads),  (student experience threads) [reddit](https://www.reddit.com/r/txstate/comments/1dsjasz/rate_my_professors/)
+
+9. **What’s the typical workload for a 3-credit class in the College of Arts and Sciences?**  
+   Sources:  (course evals),  (student workload discussions) [reddit](https://www.reddit.com/r/txstate/comments/1dsjasz/rate_my_professors/)
+
+10. **How do I know if a class is online, hybrid, or in-person before registering?**  
+   Sources:  (registration format threads), official catalog context [mycatalog.txstate](https://mycatalog.txstate.edu/undergraduate/general-information/housing-residential-life/)
+
+***
+
+## Professors (15 questions)
+
+11. **Which professors in the Business School are known for being helpful and not too strict?**  
+   Sources:  (professor threads),  (RateMyProfessors.io for TXST) [ratemyprofessors](https://ratemyprofessors.io/texas-state-university)
+
+12. **Is Professor X in the Psychology department a good teacher or should I avoid them?**  
+   Sources:  (hb2504.txst.edu / course eval discussion),  (RateMyProfessors) [ratemyprofessors](https://ratemyprofessors.io/texas-state-university)
+
+13. **How do I find out if a professor is lenient with grades before I take their class?**  
+   Sources:  (course eval discussion),  (RateMyProfessors) [ratemyprofessors](https://ratemyprofessors.io/texas-state-university)
+
+14. **Which professors are known for giving a lot of homework?**  
+   Sources:  (course evals),  (RateMyProfessors reviews) [ratemyprofessors](https://ratemyprofessors.io/texas-state-university)
+
+15. **Are there any professors at TXST who are known for being really motivating?**  
+   Sources:  (positive professor threads),  (RateMyProfessors) [reddit](https://www.reddit.com/r/txstate/comments/1dsjasz/rate_my_professors/)
+
+16. **How do I use hb2504.txst.edu to check professor evaluations?**  
+   Sources:  (meta-thread explaining hb2504 and opletter frontend) [reddit](https://www.reddit.com/r/txstate/comments/1dsjasz/rate_my_professors/)
+
+17. **What are the differences between Professor A and Professor B for the same course?**  
+   Sources:  (comparison threads),  (individual professor reviews) [ratemyprofessors](https://ratemyprofessors.io/texas-state-university)
+
+18. **Do any professors at Texas State require attendance every class?**  
+   Sources:  (course eval comments),  (RateMyProfessors) [ratemyprofessors](https://ratemyprofessors.io/texas-state-university)
+
+19. **Which professors are known for being flexible with deadlines?**  
+   Sources:  (course evals),  (RateMyProfessors) [reddit](https://www.reddit.com/r/txstate/comments/1dsjasz/rate_my_professors/)
+
+20. **Are there professors who are known for being super emphasized on participation?**  
+   Sources:  (course eval comments),  (RateMyProfessors) [ratemyprofessors](https://ratemyprofessors.io/texas-state-university)
+
+21. **How do I know if a professor is going to be on the “DO NOT TAKE” list for my major?**  
+   Sources:  (student advice threads),  (r/txstate major-specific threads) [reddit](https://www.reddit.com/r/txstate/)
+
+22. **What’s the best way to find syllabi for a professor before I register?**  
+   Sources:  (hb2504/opletter discussion),  (registration prep threads) [reddit](https://www.reddit.com/r/txstate/)
+
+23. **Are there any professors who are known for being great mentors outside of class?**  
+   Sources:  (positive professor comments),  (mentorship threads) [reddit](https://www.reddit.com/r/txstate/)
+
+24. **Which professors are known for using a lot of group projects?**  
+   Sources:  (course evals),  (RateMyProfessors) [reddit](https://www.reddit.com/r/txstate/comments/1dsjasz/rate_my_professors/)
+
+25. **How do I know if a professor is going to be tough on exams?**  
+   Sources:  (course eval difficulty notes),  (RateMyProfessors) [ratemyprofessors](https://ratemyprofessors.io/texas-state-university)
+
+***
+
+## Housing (15 questions)
+
+26. **Do I have to live on campus as a freshman at Texas State?**  
+   Sources:  (housing policy),  (protest article on housing policy) [universitystar](https://universitystar.com/29918/news/protestors-speak-out-against-on-campus-housing-policy-at-stallions/)
+
+27. **What happens if I don’t get a dorm spot when I apply?**  
+   Sources:  (overcrowding policy),  (new dorms amid enrollment growth) [universitystar](https://universitystar.com/32724/news/housing-to-add-two-new-dorms-amid-growing-enrollment/)
+
+28. **Which on-campus dorms are known for being the most social?**  
+   Sources:  (Storage Scholars housing guide),  (Facebook/blog dorm discussions) [storagescholars](https://www.storagescholars.com/blog/top-housing-picks-for-texas-state-students)
+
+29. **Which dorms are quieter and better for people who want to focus on studying?**  
+   Sources:  (Storage Scholars housing guide),  (Facebook/blog dorm discussions) [facebook](https://www.facebook.com/groups/684980879834434/posts/1301134498219066/)
+
+30. **Is the food in the dining halls included in my dorm cost?**  
+   Sources:  (housing/dining connection),  (dining meal plan value) [reddit](https://www.reddit.com/r/txstate/comments/gxtw4b/texas_state_hows_the_food/)
+
+31. **Are the dorms at Texas State safe?**  
+   Sources:  (University Star safety coverage),  (safety discussion threads) [en.wikipedia](https://en.wikipedia.org/wiki/University_Star)
+
+32. **What’s the difference between Bobcat Village and other on-campus housing?**  
+   Sources:  (Storage Scholars housing guide),  (Facebook/blog dorm discussions) [storagescholars](https://www.storagescholars.com/blog/top-housing-picks-for-texas-state-students)
+
+33. **How do I get a roommate if I don’t know anyone at Texas State?**  
+   Sources:  (r/txstate roommate threads),  (incoming freshman help thread) [reddit](https://www.reddit.com/r/txstate/comments/1prwemt/hi_everyone_help_an_incoming_freshman_student/)
+
+34. **What are the most common complaints about on-campus housing at TXST?**  
+   Sources:  (housing policy protest),  (RA article on overcrowding) [thefire](https://www.thefire.org/news/victory-texas-state-walks-back-written-warnings-handed-ras)
+
+35. **Are the dorms overpriced compared to off-campus apartments?**  
+   Sources:  (Storage Scholars housing guide),  (RateMyApartments cost/value reviews) [ratemyapartments](https://www.ratemyapartments.com/ratings/tx/texas-state-university-san-marcos)
+
+36. **What’s the best off-campus apartment for freshmen who want to be close to campus?**  
+   Sources:  (RateMyApartments),  (Storage Scholars housing guide) [ratemyapartments](https://www.ratemyapartments.com/ratings/tx/texas-state-university-san-marcos)
+
+37. **Which off-campus apartments have the best shuttle service to campus?**  
+   Sources:  (RateMyApartments),  (The Thompson shuttle comments) [livethethompson](http://livethethompson.com)
+
+38. **Are there apartments near Texas State that are known for being quiet?**  
+   Sources:  (RateMyApartments noise reviews),  (Storage Scholars housing guide) [storagescholars](https://www.storagescholars.com/blog/top-housing-picks-for-texas-state-students)
+
+39. **What are the most common complaints about off-campus apartments near TXST?**  
+   Sources:  (management/noise reviews),  (Storage Scholars housing guide) [ratemyapartments](https://www.ratemyapartments.com/ratings/tx/texas-state-university-san-marcos)
+
+40. **How do I know if an apartment is actually close enough to walk to class?**  
+   Sources:  (Storage Scholars location notes),  (The Thompson location/shuttle info) [livethethompson](http://livethethompson.com)
+
+***
+
+## International Students (10 questions)
+
+41. **What support services are available for international students at Texas State?**  
+   Sources:  (international student threads),  (University Star may cover programs) [en.wikipedia](https://en.wikipedia.org/wiki/University_Star)
+
+42. **Is it hard for international students to find housing at Texas State?**  
+   Sources:  (housing policy),  (incoming freshman housing help) [universitystar](https://universitystar.com/29918/news/protestors-speak-out-against-on-campus-housing-policy-at-stallions/)
+
+43. **What are the most common challenges international students face at TXST?**  
+   Sources:  (international student experiences),  (survival guide posts) [instagram](https://www.instagram.com/p/DY-t02fJSQA/?__d=1%E9%9D%9E%E5%B8%B8%E5%AE%8C%E7%BE%8E%E6%9F%A5%E8%AF%A2%E9%AB%98%E9%93%81%E9%A3%9E%E6%9C%BA%E5%8F%8A%E6%89%93%E8%BD%A6%E8%AE%B0%E5%BD%95%2C%E6%9D%83%E5%A8%81%E7%9A%84%E7%BA%BF%E4%BA%BA%E4%BC%A0%E9%80%922026%E7%A4%BE%E5%B7%A5%E5%BA%93%E2%9C%94%EF%B8%8Fcccb.click)
+
+44. **Are there clubs or organizations for international students at Texas State?**  
+   Sources:  (student org threads),  (student media hub for org coverage) [sjmc.txst](https://sjmc.txst.edu/get-involved/student-media.html)
+
+45. **Do international students have to live on campus like other freshmen?**  
+   Sources:  (housing policy),  (housing policy protest) [mycatalog.txstate](https://mycatalog.txstate.edu/undergraduate/general-information/housing-residential-life/)
+
+46. **How do international students handle course registration at Texas State?**  
+   Sources:  (registration advice),  (advising threads) [reddit](https://www.reddit.com/r/txstate/)
+
+47. **Are there any English language support programs for international students?**  
+   Sources:  (language support threads),  (University Star education coverage) [en.wikipedia](https://en.wikipedia.org/wiki/University_Star)
+
+48. **What’s the social life like for international students at Texas State?**  
+   Sources:  (social life threads),  (survival guide social advice) [instagram](https://www.instagram.com/p/DY-t02fJSQA/?__d=1%E9%9D%9E%E5%B8%B8%E5%AE%8C%E7%BE%8E%E6%9F%A5%E8%AF%A2%E9%AB%98%E9%93%81%E9%A3%9E%E6%9C%BA%E5%8F%8A%E6%89%93%E8%BD%A6%E8%AE%B0%E5%BD%95%2C%E6%9D%83%E5%A8%81%E7%9A%84%E7%BA%BF%E4%BA%BA%E4%BC%A0%E9%80%922026%E7%A4%BE%E5%B7%A5%E5%BA%93%E2%9C%94%EF%B8%8Fcccb.click)
+
+49. **How do international students find internships in the U.S. at Texas State?**  
+   Sources:  (internship threads),  (University Star career/employment coverage) [en.wikipedia](https://en.wikipedia.org/wiki/University_Star)
+
+50. **Are there any cultural events on campus that international students usually attend?**  
+   Sources:  (student media events),  (University Star campus events) [sjmc.txst](https://sjmc.txst.edu/get-involved/student-media.html)
+
+***
+
+## Campus Life (10 questions)
+
+51. **What are the best events on campus for freshmen to get involved?**  
+   Sources:  (event/org threads),  (University Star events coverage) [en.wikipedia](https://en.wikipedia.org/wiki/University_Star)
+
+52. **How do I join student organizations at Texas State?**  
+   Sources:  (org joining threads),  (student media hub) [sjmc.txst](https://sjmc.txst.edu/get-involved/student-media.html)
+
+53. **What’s the typical college vibe at Texas State—study-focused or social?**  
+   Sources:  (campus vibe threads),  (orientation/survival posts) [instagram](https://www.instagram.com/p/DY-t02fJSQA/?__d=1%E9%9D%9E%E5%B8%B8%E5%AE%8C%E7%BE%8E%E6%9F%A5%E8%AF%A2%E9%AB%98%E9%93%81%E9%A3%9E%E6%9C%BA%E5%8F%8A%E6%89%93%E8%BD%A6%E8%AE%B0%E5%BD%95%2C%E6%9D%83%E5%A8%81%E7%9A%84%E7%BA%BF%E4%BA%BA%E4%BC%A0%E9%80%922026%E7%A4%BE%E5%B7%A5%E5%BA%93%E2%9C%94%EF%B8%8Fcccb.click)
+
+54. **Are there good study spots on campus that are not in the library?**  
+   Sources:  (study spots with food),  (general campus life) [reddit](https://www.reddit.com/r/txstate/comments/gxtw4b/texas_state_hows_the_food/)
+
+55. **How safe is the campus at night?**  
+   Sources:  (University Star safety coverage),  (safety discussion threads) [en.wikipedia](https://en.wikipedia.org/wiki/University_Star)
+
+56. **What are the most popular student organizations at Texas State?**  
+   Sources:  (org popularity threads),  (student media orgs) [sjmc.txst](https://sjmc.txst.edu/get-involved/student-media.html)
+
+57. **Are there free activities on campus for students?**  
+   Sources:  (University Star campus events),  (free activity threads) [en.wikipedia](https://en.wikipedia.org/wiki/University_Star)
+
+58. **How do I get involved in campus leadership or RA positions?**  
+   Sources:  (RA article),  (leadership/RA threads) [thefire](https://www.thefire.org/news/victory-texas-state-walks-back-written-warnings-handed-ras)
+
+59. **What’s the relationship between students and the administration at Texas State?**  
+   Sources:  (RA/admin conflict),  (housing protest),  (protest coverage) [universitystar](https://universitystar.com/29918/news/protestors-speak-out-against-on-campus-housing-policy-at-stallions/)
+
+60. **Are there good places to exercise or work out on campus?**  
+   Sources:  (fitness/gym threads),  (The Thompson amenities mention) [livethethompson](http://livethethompson.com)
+
+***
+
+## Dining (10 questions)
+
+61. **Which dining hall has the best food at Texas State?**  
+   Sources:  (dining hall impressions),  (dining hall comparison) [reddit](https://www.reddit.com/r/txstate/comments/s4fi6e/could_someone_with_experience_compare_each_if_the/)
+
+62. **How do meal swipes work at Texas State?**  
+   Sources:  (swipe value tips),  (dining hall hours and value) [reddit](https://www.reddit.com/r/txstate/comments/s4fi6e/could_someone_with_experience_compare_each_if_the/)
+
+63. **Are the dining halls open on weekends?**  
+   Sources:  (dining hall hours),  (dining capacity/hours context) [universitystar](https://universitystar.com/32724/news/housing-to-add-two-new-dorms-amid-growing-enrollment/)
+
+64. **What’s the cheapest way to eat on campus if I don’t have a meal plan?**  
+   Sources:  (swipe value tips),  (dining hall comparisons) [reddit](https://www.reddit.com/r/txstate/comments/s4fi6e/could_someone_with_experience_compare_each_if_the/)
+
+65. **Are there vegetarian or vegan options in the dining halls?**  
+   Sources:  (food variety),  (dining hall food options) [reddit](https://www.reddit.com/r/txstate/comments/gxtw4b/texas_state_hows_the_food/)
+
+66. **How crowded are the dining halls during lunch time?**  
+   Sources:  (crowd level comments),  (peak time tips) [reddit](https://www.reddit.com/r/txstate/comments/s4fi6e/could_someone_with_experience_compare_each_if_the/)
+
+67. **What are the best food spots on campus besides the dining halls?**  
+   Sources:  (retail spots mentioned),  (food threads) [reddit](https://www.reddit.com/r/txstate/comments/gxtw4b/texas_state_hows_the_food/)
+
+68. **Is the food in the dining halls worth the price?**  
+   Sources:  (swipe value discussion),  (dining hall comparisons) [reddit](https://www.reddit.com/r/txstate/comments/s4fi6e/could_someone_with_experience_compare_each_if_the/)
+
+69. **Do any dining halls have late-night options?**  
+   Sources:  (dining hours),  (study spots with food) [reddit](https://www.reddit.com/r/txstate/comments/gxtw4b/texas_state_hows_the_food/)
+
+70. **What’s the most common complaint about dining halls at Texas State?**  
+   Sources:  (mixed reviews),  (complaints about bland menus) [reddit](https://www.reddit.com/r/txstate/comments/s4fi6e/could_someone_with_experience_compare_each_if_the/)
+
+***
+
+## Transportation (10 questions)
+
+71. **Is it hard to find parking at Texas State?**  
+   Sources:  (parking situation thread),  (parking recommendations) [reddit](https://www.reddit.com/r/txstate/comments/sjssnt/parking_situation/)
+
+72. **Where can I park for free near campus without a permit?**  
+   Sources:  (free downtown spots),  (parking lot tips) [reddit](https://www.reddit.com/r/txstate/comments/15ypgve/parking/)
+
+73. **What’s the cost of a semester parking permit at Texas State?**  
+   Sources:  (purple permit mention),  (parking services link) [reddit](https://www.reddit.com/r/txstate/comments/1gzesto/parking/)
+
+74. **Are there good shuttle options from off-campus apartments to campus?**  
+   Sources:  (RateMyApartments shuttle reviews),  (The Thompson shuttle comments) [ratemyapartments](https://www.ratemyapartments.com/ratings/tx/texas-state-university-san-marcos)
+
+75. **What are the best parking lots for short campus visits?**  
+   Sources:  (stadium lot daily fees),  (specific lot tips) [reddit](https://www.reddit.com/r/txstate/comments/sjssnt/parking_situation/)
+
+76. **How do I get a parking permit for Texas State?**  
+   Sources:  (parking services link),  (permit types) [reddit](https://www.reddit.com/r/txstate/comments/1gzesto/parking/)
+
+77. **Is biking to campus common at Texas State?**  
+   Sources:  (biking/transport threads),  (parking frustration leads to alternatives) [reddit](https://www.reddit.com/r/txstate/comments/sjssnt/parking_situation/)
+
+78. **What are the most common parking complaints at Texas State?**  
+   Sources:  (frustration and hacks),  (parking stress) [reddit](https://www.reddit.com/r/txstate/comments/15ypgve/parking/)
+
+79. **Are there designated pedestrian paths around campus that are safe at night?**  
+   Sources:  (safety coverage),  (campus safety threads) [en.wikipedia](https://en.wikipedia.org/wiki/University_Star)
+
+80. **How do I get from downtown San Marcos to campus without a car?**  
+   Sources:  (downtown parking/shuttle),  (shuttle/lot tips) [reddit](https://www.reddit.com/r/txstate/comments/15ypgve/parking/)
+
+***
+
+## Internships (5 questions)
+
+81. **How easy is it to find internships as a Texas State student?**  
+   Sources:  (internship threads),  (University Star career coverage) [reddit](https://www.reddit.com/r/txstate/)
+
+82. **Does Texas State have a good career center for finding internships?**  
+   Sources:  (career center advice),  (University Star career services) [en.wikipedia](https://en.wikipedia.org/wiki/University_Star)
+
+83. **What majors at Texas State have the best internship opportunities?**  
+   Sources:  (major-specific internship threads),  (University Star employment coverage) [reddit](https://www.reddit.com/r/txstate/)
+
+84. **How do I use the career center to find internships in my field?**  
+   Sources:  (career center usage),  (career services articles) [en.wikipedia](https://en.wikipedia.org/wiki/University_Star)
+
+85. **Are there internships available for freshmen at Texas State?**  
+   Sources:  (freshman internship threads),  (University Star early-career coverage) [reddit](https://www.reddit.com/r/txstate/)
+
+***
+
+## Financial Aid (5 questions)
+
+86. **What financial aid options are available for Texas State freshmen?**  
+   Sources:  (COVID relief including tuition/housing),  (financial aid threads) [universitystar](https://universitystar.com/19504/news/texas-state-to-give-out-millions-in-financial-relief-to-students-amid-covid-19-pandemic/)
+
+87. **How do I apply for scholarships at Texas State?**  
+   Sources:  (scholarship threads),  (financial relief context) [universitystar](https://universitystar.com/19504/news/texas-state-to-give-out-millions-in-financial-relief-to-students-amid-covid-19-pandemic/)
+
+88. **Are there scholarships specifically for international students at Texas State?**  
+   Sources:  (international scholarship threads),  (University Star scholarship coverage) [en.wikipedia](https://en.wikipedia.org/wiki/University_Star)
+
+89. **How much does it typically cost to live on campus at Texas State?**  
+   Sources:  (Storage Scholars housing cost),  (housing/fee context) [universitystar](https://universitystar.com/19504/news/texas-state-to-give-out-millions-in-financial-relief-to-students-amid-covid-19-pandemic/)
+
+90. **What are the most common ways students reduce their costs at Texas State?**  
+   Sources:  (cost-saving threads),  (financial relief measures) [universitystar](https://universitystar.com/19504/news/texas-state-to-give-out-millions-in-financial-relief-to-students-amid-covid-19-pandemic/)
+
+***
+
+## Registration (5 questions)
+
+91. **When does registration for classes start for freshmen at Texas State?**  
+   Sources:  (registration date threads),  (registration prep) [reddit](https://www.reddit.com/r/txstate/comments/1dsjasz/rate_my_professors/)
+
+92. **How do I know which classes I need for my major?**  
+   Sources:  (Degree Works/requirements threads),  (advising discussions) [reddit](https://www.reddit.com/r/txstate/comments/1dsjasz/rate_my_professors/)
+
+93. **What happens if I miss my registration appointment?**  
+   Sources:  (missed registration threads),  (advising/registration help) [reddit](https://www.reddit.com/r/txstate/comments/1dsjasz/rate_my_professors/)
+
+94. **How do I use Degree Works to plan my schedule?**  
+   Sources:  (Degree Works threads),  (advising/registration prep) [reddit](https://www.reddit.com/r/txstate/)
+
+95. **What’s the best way to pick classes that fit my schedule without conflicts?**  
+   Sources:  (schedule planning threads),  (registration prep) [reddit](https://www.reddit.com/r/txstate/comments/1dsjasz/rate_my_professors/)
+
+***
+
+## Freshman Advice (10 questions)
+
+96. **What should I pack for my first semester at Texas State?**  
+   Sources:  (survival guide packing notes),  (Facebook move-in/logistics posts) [facebook](https://www.facebook.com/groups/684980879834434/posts/1301134498219066/)
+
+97. **What’s the most important thing freshmen should know before starting at Texas State?**  
+   Sources:  (incoming freshman help thread),  (orientation lessons) [reddit](https://www.reddit.com/r/txstate/comments/1prwemt/hi_everyone_help_an_incoming_freshman_student/)
+
+98. **How do I make friends as a freshman at Texas State if I don’t know anyone?**  
+   Sources:  (incoming freshman social advice),  (survival guide social tips) [reddit](https://www.reddit.com/r/txstate/comments/1prwemt/hi_everyone_help_an_incoming_freshman_student/)
+
+99. **What are the biggest surprises freshmen experience at Texas State?**  
+   Sources:  (freshman expectations),  (what they wish they knew) [reddit](https://www.reddit.com/r/txstate/comments/1prwemt/hi_everyone_help_an_incoming_freshman_student/)
+
+100. **How do I survive my first semester at Texas State without getting overwhelmed?**  
+   Sources:  (freshman help threads),  (“everything I wish someone told me” posts) [instagram](https://www.instagram.com/p/DY-t02fJSQA/?__d=1%E9%9D%9E%E5%B8%B8%E5%AE%8C%E7%BE%8E%E6%9F%A5%E8%AF%A2%E9%AB%98%E9%93%81%E9%A3%9E%E6%9C%BA%E5%8F%8A%E6%89%93%E8%BD%A6%E8%AE%B0%E5%BD%95%2C%E6%9D%83%E5%A8%81%E7%9A%84%E7%BA%BF%E4%BA%BA%E4%BC%A0%E9%80%922026%E7%A4%BE%E5%B7%A5%E5%BA%93%E2%9C%94%EF%B8%8Fcccb.click)
+

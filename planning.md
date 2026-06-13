@@ -11,25 +11,26 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
----
+## I have choose the Texas state university survival guide as a domain, and it hard to find on official channels because it not possible to find honest reviews and real life experience of students with the university facilities.
 
 ## Documents
 
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| #   | Source | Description | URL or location |
+| --- | ------ | ----------- | --------------- |
+
+| 1 | r/txstate main subreddit | Largest unofficial community for TXST students; discussions on housing, classes, professors, parking, dining, jobs, and campus life. | [https://www.reddit.com/r/txstate/](https://www.reddit.com/r/txstate/) |
+| 2 | r/TexasStateUniversity | Smaller community with student, alumni, and staff discussions; useful for freshman and transfer student experiences. | [https://www.reddit.com/r/TexasStateUniversity/](https://www.reddit.com/r/TexasStateUniversity/) |
+| 3 | Rate My Professors | Student reviews and ratings of TXST professors; valuable for course and instructor feedback. | [https://www.ratemyprofessors.com](https://www.ratemyprofessors.com) |
+| 4 | University Star | Official student-run newspaper covering campus news, housing, safety, events, and student opinions. | [https://universitystar.com](https://universitystar.com) |
+| 5 | RateMyApartments | Reviews and ratings of apartments near Texas State University from current and former residents. | [https://www.ratemyapartments.com/ratings/tx/texas-state-university-san-marcos](https://www.ratemyapartments.com/ratings/tx/texas-state-university-san-marcos) |
+| 6 | Storage Scholars Housing Guide | Student-focused housing recommendations and comparisons of popular apartment complexes. | [https://www.storagescholars.com/blog/top-housing-picks-for-texas-state-students](https://www.storagescholars.com/blog/top-housing-picks-for-texas-state-students) |
+| 7 | TXST Housing & Residential Life | Official housing policies, dorm information, room assignments, and residence hall resources. | [https://www.reslife.txst.edu](https://www.reslife.txst.edu) |
+| 8 | TXST Dining Services | Official information about dining halls, meal plans, campus restaurants, and food services. | [https://www.dineoncampus.com/txstate](https://www.dineoncampus.com/txstate) |
+| 9 | The Thompson Apartments Reviews | Student apartment information and resident testimonials near campus. | [https://livethethompson.com](https://livethethompson.com) |
+| 10 | YouTube Student Experience Videos | Dorm tours, apartment reviews, freshman advice, and day-in-the-life videos created by TXST students. | Search: "Texas State University dorm tour", "Texas State freshman advice", "Texas State apartment review" on YouTube |
 
 ---
 
@@ -41,10 +42,11 @@
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
-
+I will documents into 200 - 250 character chunks.
 **Overlap:**
-
+40 - 50 characters
 **Reasoning:**
+As documents are opinion based which mostly depend upon the context so limiting chunk size will help to reduce the chunks and
 
 ---
 
@@ -57,10 +59,24 @@
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
-
+Review
+↓
+Extract metadata
+↓
+One opinion/comment per chunk
+↓
+Metadata-enriched embedding
+↓
+Vector DB
+↓
+Retrieve top-k
+↓
+LLM answer with citations
 **Top-k:**
-
+It will retrieve top 5-8 K
 **Production tradeoff reflection:**
+high recall initially
+high precision in the final context
 
 ---
 
@@ -71,13 +87,14 @@
      is right or wrong. "What are good dining halls?" is too vague.
      "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
 
-| # | Question | Expected answer |
-|---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| #   | Question                                                                                                                 | Expected Correct Answer                                                                                                                                                           |
+| --- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | What complaints do students most frequently mention about maintenance at The Thompson Apartments?                        | Students frequently mention slow maintenance response times, delayed repairs, and poor communication from management.                                                             |
+| 2   | According to student discussions, what are the biggest challenges international students face at Texas State University? | International students commonly mention difficulties with transportation without a car, finding affordable housing, adjusting to campus life, and building social connections.    |
+| 3   | What do students say about parking availability on campus during peak class hours?                                       | Students frequently report that parking lots fill up quickly during peak hours, making it difficult to find spots and causing some students to arrive early or park farther away. |
+| 4   | What factors do students consider when recommending a professor on Rate My Professors and Reddit?                        | Students primarily evaluate professors based on teaching clarity, responsiveness to questions, quality of feedback, fairness of exams, and workload.                              |
+| 5   | According to Reddit and student articles, why are some students dissatisfied with the on-campus housing lottery process? | Some students feel the process lacks transparency and believe outcomes are unpredictable, even though official university information states that the lottery is randomized.      |
+|  |
 
 ---
 
@@ -87,7 +104,7 @@
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. It could mixed the words
 
 2.
 
