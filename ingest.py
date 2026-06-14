@@ -58,6 +58,7 @@ def load_documents(documents_dir):
             if not content:
                 continue
             documents.append({
+                "doc_index": i,
                 "parent_source": path.stem,
                 "source": source,
                 "content": content,
@@ -130,7 +131,7 @@ def build_chunks(documents):
         slug = re.sub(r"[^a-zA-Z0-9]+", "_", doc["source"]).strip("_")[:40]
         for i, chunk in enumerate(chunk_text(cleaned)):
             records.append({
-                "chunk_id": f"{doc['parent_source']}_{slug}_{i}",
+                "chunk_id": f"{doc['parent_source']}_{doc['doc_index']}_{slug}_{i}",
                 "source": doc["source"],
                 "content": chunk,
                 "parent_source": doc["parent_source"],

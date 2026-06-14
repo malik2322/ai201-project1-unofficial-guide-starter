@@ -1,0 +1,24 @@
+{
+"documents": [
+{
+"source": "r/txstate — Parking ticket rant from a graduating senior (original post)",
+"content": "A senior posted that after four years of avoiding parking tickets, they got their first ticket a month before graduation. They had been told for years by friends and even some professors that there was free street parking close to Old Main. They parked there an hour early, and 10 minutes before class a parking enforcement officer photographed their plate with an iPad. When the student asked if parking was allowed there, the officer replied that it was not and that 'anyone who attends this university would know that.' The student described the officer as rude and said they had never had to pay a ticket before and didn't know the process."
+},
+{
+"source": "r/txstate — Advice on getting a first parking ticket forgiven or reduced",
+"content": "Several commenters said TXST Parking Services will often forgive or significantly reduce a first ticket if the student goes to the parking office in person and explains the situation — one commenter had their ticket reduced to about $5. However, others noted this forgiveness typically requires the student to already have (or buy) a parking permit; if you don't have one, they may make you purchase the overpriced permit before reducing the ticket. One commenter said the fastest and most effective method was emailing the parking officer directly and explaining the situation, which got their first ticket forgiven and a second ticket reduced — they contrasted this with calling the parking office, where a staff member was rude and unhelpful. Another commenter said that if you're still in your car when given the ticket, it can often be dismissed. Commenters also noted that students, not just staff, now work as parking enforcement officers writing tickets."
+},
+{
+"source": "r/txstate — Where 'free' street parking actually exists near campus",
+"content": "Multiple commenters pushed back on the idea that street parking near Old Main and the J.C. Kellam building (JCK) is free public parking — they said those areas are marked for red (staff/faculty) permits, with signs posted, and linked the official TXST parking map (parking.txst.edu/map.html) as the way to verify before parking. One commenter clarified that genuinely free street parking exists across University Drive heading toward downtown San Marcos from Old Main and JCK, but there is no free parking actually on campus — even non-permitted campus spots require payment. Another commenter said the restricted spots near Old Main are marked 'reserved for restricted parking before 5pm' and can be used with any permit after 5pm."
+},
+{
+"source": "r/txstate — Disputing parking tickets successfully",
+"content": "One commenter said that from what they'd heard from staff, TXST Parking Services can't enforce tickets very aggressively and can't send them to collections because they can't prove who was driving — and that parking enforcement officers are not police. Another commenter shared they parked in a no-parking zone during a thunderstorm while moving out as a freshman, received a ticket, disputed it, and won because they had zero prior tickets — they recommended disputing rather than paying outright, especially for a first offense."
+},
+{
+"source": "r/txstate — Disabled placard holders getting tickets for illegal handicap parking",
+"content": "A commenter said they received a $300 ticket for parking in a handicap spot despite having a disability placard, and felt the enforcement was unfairly harsh — they argued they should have received a regular no-permit ticket instead. Another commenter explained that a TXST parking permit is still required to park on campus even with a disability placard; a placard only allows parking in any available disabled spot regardless of which color permit the driver holds, according to what parking enforcement told them. A third commenter noted the student was technically violating both rules (no permit and using a handicap spot), but said that if the placard is genuinely the student's own, they can appeal the ticket and get it reduced to a no-permit violation."
+}
+]
+}

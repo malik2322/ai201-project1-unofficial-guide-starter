@@ -48,6 +48,29 @@
 "source": "Megan Stanford, international relations junior - Conclusion",
 "content": "Satellite campuses, as well as joint partnerships between community colleges and universities, offer a multitude of problem-solving options for both the university and students. Alleviating pressures surrounding parking, finances and housing concerns is just the tip of the iceberg when exploring these outlets."
 }
-
+{
+"source": "Department of Housing and Residential Life (DHRL) Contact and Institutional Mission",
+"content": "Housing and Residential Life. DHRL Office Building, 515 N. Comanche Street. www.reslife.txstate.edu. Telephone: 512-245-4663. In support of the educational mission of the university and the student value of the on-campus residential experience, the Department of Housing and Residential Life provides a safe, comfortable and convenient living environment, while offering opportunities for increased campus involvement, community interaction and academic assistance. For these reasons, the university requires that certain students live on campus."
+},
+{
+"source": "Texas State University Housing Requirement Policy",
+"content": "New freshmen under the age of 20 (by September 1 for fall admission or January 1 for spring admission) with fewer than 30 semester credit hours are required to live in on-campus university housing, unless they qualify for an exemption outlined in the housing contract. All students who graduated from high school within the preceding 12 months of the semester of their admission are required to live on campus, regardless of the number of credits they may have accumulated prior to attending Texas State University."
+},
+{
+"source": "Benefits of Living On-Campus",
+"content": "It is the mission of the Department of Housing and Residential Life to provide welcoming living communities that foster academic success, campus engagement, and personal development. The on-campus living experience is where lifetime friendships are formed, ideas and ideals are exchanged, and a whole world of opportunity and potential is spread before those willing to explore, study, and get involved. Research at Texas State and nationally has shown that, when compared to those living elsewhere, students living in the residence halls are more fully involved in academic and extracurricular activities and tend to earn a higher GPA."
+},
+{
+"source": "Texas State Dining Services",
+"content": "The university offers several different dining plans so students can pick the one that best fits their schedule, eating preferences, and budget."
+},
+{
+"source": "On-Campus Housing Application Process",
+"content": "Contracts for on-campus housing may be submitted through the Housing Portal upon formal admission to the university."
+},
+{
+"source": "Housing Contract Cancellation Deadlines and Policies",
+"content": "Contracts for on-campus living are for the entire academic year. Once the contract has been signed and submitted there are very limited reasons for cancellation. For those not planning to attend the university, there is a prorated refund scale that is dependent upon the date of cancellation. See the contract terms and conditions for specific cancellation details."
+}
 ]
 }

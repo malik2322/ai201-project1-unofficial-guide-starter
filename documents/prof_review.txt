@@ -1,0 +1,136 @@
+{
+"documents": [
+{
+"source": "Student Review 1 - CS4388 (Dec 10th, 2025)",
+"content": "Quality: 5.0. Difficulty: 2.0. For Credit: Yes. Attendance: Not Mandatory. Would Take Again: Yes. Grade: Not sure yet. Textbook: Yes. Professor Isayas Adhanom was very helpful outside of class and gave plenty of foundation and support for all projects. Tags: Participation matters, Lots of homework, Lecture heavy."
+},
+{
+"source": "Student Review 2 - CS4388 (Dec 9th, 2025)",
+"content": "Quality: 5.0. Difficulty: 2.0. For Credit: Yes. Attendance: Not Mandatory. Would Take Again: Yes. Grade: B. Textbook: N/A. Dr. Isayas Adhanom is really passionate about Computer Graphics and that shows. The class itself is full of fun projects that can be put on a resume to show a range of Computer Graphics applications. A tiny bit disorganized, but this was only his 2nd semester teaching the course. No AI allowed but he is available outside of class for questions. Tags: EXTRA CREDIT, Gives good feedback, Accessible outside class."
+},
+{
+"source": "Professor Profile Summary - Isayas Adhanom",
+"content": "Professor Name: Isayas Adhanom. Department: Computer Science department at Texas State University. Overall Quality: 5 / 5 (Based on 2 ratings). Would take again: 100%. Level of Difficulty: 2."
+},
+{
+"source": "Professor Profile Summary - Moonis Ali",
+"content": "Professor Name: Moonis Ali. Department: Computer Science department at Texas State University. Overall Quality: 2.6 / 5 (Based on 75 ratings). Would take again: 35%. Level of Difficulty: 3.8. Rating Distribution: Awesome 5 (14), Great 4 (13), Good 3 (10), OK 2 (9), Awful 1 (29). Similar Professors: Heena Rathore (4.80), Chul-Ho Lee (4.60), Trevi Kelley (4.60)."
+},
+{
+"source": "Student Review 1 - CS4346 (Dec 10th, 2025)",
+"content": "Quality: 1.0. Difficulty: 5.0. For Credit: Yes. Attendance: Mandatory. Grade: C. Textbook: N/A. Hard to understand, reads directly from slides, harsh grading. The professor will mark you absent if you're even a few minutes late. Only take this class if it is absolutely required for you to do so. Hands down worst professor at Texas State. Tags: TOUGH GRADER, PARTICIPATION MATTERS, BEWARE OF POP QUIZZES."
+},
+{
+"source": "Student Review 2 - CS4346 (Mar 5th, 2025)",
+"content": "Quality: 1.0. Difficulty: 5.0. For Credit: Yes. Attendance: Mandatory. Grade: Not sure yet. Textbook: N/A. Online Class: Yes. He is hard to understand because he mumbles, he doesn't answer questions straightforward at all and usually just tells students to look at his slides. very outdated and honestly a disappointing professor to learn AI from. if there was any other options then i would take those instead, unless you already know about AI then i would never recommend..."
+},
+{
+"source": "Student Review 3 - CS4346 (Feb 26th, 2025)",
+"content": "Quality: 1.0. Difficulty: 5.0. For Credit: Yes. Attendance: Mandatory. Grade: Not sure yet. Textbook: N/A. dude just dont take him."
+},
+{
+"source": "Student Review 4 - AI (Dec 2nd, 2024)",
+"content": "Quality: 1.0. Difficulty: 5.0. Textbook: Yes. Online Class: Yes. I emailed him a question about subject matter, and he responded 6 days later saying 'I'm sorry I do not have time.' He does not care about students, even if that is supposed to be his job."
+},
+{
+"source": "Student Review 5 - CS4346 (Dec 11th, 2023)",
+"content": "Quality: 1.0. Difficulty: 5.0. For Credit: Yes. Attendance: Mandatory. Grade: B+. Textbook: Yes. Online Class: Yes. Hard class. Please only take if you need a last resort. Projects require more than just the allotted 3 weeks given. Exams are very uncertain, you'll have very little idea on what will be asked. Attendance is required. Textbook is better than lecture. Material is copy/paste from CS5346, hence this is a graduate class and designed for grad students. Tags: GET READY TO READ, LECTURE HEAVY."
+},
+{
+"source": "Professor Profile Summary - Vicki Almstrum",
+"content": "Professor Name: Vicki Almstrum. Department: Computer Science department at Texas State University. Overall Quality: 2.6 / 5 (Based on 44 ratings). Would take again: 28%. Level of Difficulty: 2.7. Rating Distribution: Awesome 5 (5), Great 4 (8), Good 3 (8), OK 2 (10), Awful 1 (13). Similar Professors: Heena Rathore (4.80), Chul-Ho Lee (4.60), Trevi Kelley (4.60)."
+},
+{
+"source": "Student Review 1 - CS2315 (Dec 9th, 2025)",
+"content": "Quality: 3.0. Difficulty: 3.0. For Credit: Yes. Attendance: Mandatory. Grade: A+. Textbook: N/A. Online Class: Yes. She's flexible and willing to help with scheduling issues. A sweet professor but, the class is a lot of work. There's too many assignments and projects, it's unrealistic. You will be drowning in schoolwork. Luckily, I wouldn't say the content is difficult. She also does track attendance with codes. I would suggest taking this class online. Tags: PARTICIPATION MATTERS, SO MANY PAPERS, TEST HEAVY."
+},
+{
+"source": "Student Review 2 - CS2315 (May 23rd, 2025)",
+"content": "Quality: 2.0. Difficulty: 4.0. For Credit: Yes. Attendance: Mandatory. Grade: A+. Textbook: Yes. Online Class: Yes. The course had too much to cover in each class time, so class meetings usually felt rushed. Every class time included group work. The groups were randomly assigned. There were a lot of assignments throughout the semester, so try to avoid procrastinating so you can keep up. None of the material individually was incredibly difficult, just the volume. Tags: GROUP PROJECTS, GIVES GOOD FEEDBACK, LOTS OF HOMEWORK."
+},
+{
+"source": "Student Review 3 - CS2315 (May 4th, 2025)",
+"content": "Quality: 2.0. Difficulty: 2.0. For Credit: Yes. Attendance: Mandatory. Grade: Not sure yet. Textbook: Yes. Yeah, this definitely didn't feel like a 3-credit course. I took 3 credits less this semester and I still felt stressed out. However, Dr. Almstrum is generous with grading as long as you show that you try to do the work. Therefore, get ready to read, do quizzes, take-home exams, a group presentation, and a 10-page paper on a topic of your choice. Tags: GET READY TO READ, LOTS OF HOMEWORK, BEWARE OF POP QUIZZES."
+},
+{
+"source": "Student Review 4 - CS2315 (Apr 27th, 2025)",
+"content": "Quality: 1.0. Difficulty: 5.0. For Credit: Yes. Attendance: Mandatory. Grade: A. Textbook: N/A. Dr. Almstrum doesn't realize this course is 3 credit hours NOT 9 credit hours. Extreme writing intensive, take-home exams, 2x quizzes each week, midterms, final, presentation, research term paper and many more. She likes to over-complicate simple things & will drain your time, energy and weekends. DO NOT TAKE her class - coming from a 3.93 gpa guy. Tags: LOTS OF HOMEWORK, SO MANY PAPERS, TEST HEAVY."
+},
+{
+"source": "Student Review 5 - CS2315 (Apr 27th, 2025)",
+"content": "Quality: 1.0. Difficulty: 2.0. For Credit: Yes. Attendance: Mandatory. Grade: B+. Textbook: Yes. She seems to care for the students but the courseload given is extremely overbearing and is constant homework or group quizzes. Little time is given in class to work on your assignments even though she wants them to be completed in class. I highly recommend avoiding if possible, it is easy to pass just very irritating. There is also so much writing. Tags: GROUP PROJECTS, LOTS OF HOMEWORK, SO MANY PAPERS."
+},
+{
+"source": "Professor Profile Summary - Tsz-Chiu Au",
+"content": "Professor Name: Tsz-Chiu Au. Department: Computer Science department at Texas State University. Overall Quality: 3.7 / 5 (Based on 7 ratings). Would take again: 58%. Level of Difficulty: 3.3. Rating Distribution: Awesome 5 (4), Great 4 (0), Good 3 (1), OK 2 (10), Awful 1 (1). Similar Professors: Heena Rathore (4.80), Chul-Ho Lee (4.60), Trevi Kelley (4.60)."
+},
+{
+"source": "Student Review 1 - CS 3358 (Aug 25th, 2025)",
+"content": "Quality: 2.0. Difficulty: 1.0. For Credit: Yes. Attendance: Mandatory. Grade: B+. Textbook: Yes. He was very nice but the lectures were genuinely confusing. The class was really easy and it wasn't hard to pass, but I do look back wondering what I even learned? My peers that took Koh struggled but learned more. So that's what I recommend doing if you're deciding who to take for DSA. Tags: LECTURE HEAVY."
+},
+{
+"source": "Student Review 2 - CS 3358 (May 12th, 2025)",
+"content": "Quality: 5.0. Difficulty: 4.0. For Credit: Yes. Attendance: Mandatory. Would Take Again: Yes. Grade: C+. Textbook: N/A. Professor Tsz-Chiu Au listens very well to his students. We provided class feedback (tests too hard; adjusted to be easier) and he took it and ran with it. I respect him a lot as a professor. He has an accent that some may find difficult to understand but he provided live subtitles to help. Highly recommend him as a professor. Tags: EXTRA CREDIT, CLEAR GRADING CRITERIA, RESPECTED."
+},
+{
+"source": "Student Review 3 - CS 3358 (May 10th, 2025)",
+"content": "Quality: 5.0. Difficulty: 5.0. For Credit: Yes. Attendance: Not Mandatory. Would Take Again: Yes. Grade: A. Textbook: N/A. He is really kind, caring and think about students. He is full of knowledge and can answer any questions with good explanations. I would definitely place him on top as the best professor in TXST. He has an accent but if you pay attention in class, it's not hard to understand. He tests your learnings in class and definitely the exams are super easy. Tags: EXTRA CREDIT, AMAZING LECTURES, CARING."
+},
+{
+"source": "Student Review 4 - CS 3358 (May 10th, 2025)",
+"content": "Quality: 5.0. Difficulty: 1.0. For Credit: Yes. Attendance: Mandatory. Would Take Again: Yes. Grade: A+. Textbook: Yes. Lectures are boring, but he is caring. He is, btw great teacher; sometimes the slides go too far. He makes it understanding, if you want A, he is the guy. Also he is happy to help you everytime. All in all great guy, if you want good grades and easy professor. Tags: EXTRA CREDIT, GIVES GOOD FEEDBACK, CARING."
+},
+{
+"source": "Student Review 5 - CS 3358 (May 9th, 2025)",
+"content": "Quality: 5.0. Difficulty: 3.0. For Credit: Yes. Attendance: Mandatory. Would Take Again: Yes. Grade: Not sure yet. Textbook: N/A. A nice and approachable professor. His lectures are clear and paced well. He gave out a lot of exercises during every lecture, which are helpful to my study. The policy that excludes one late assignment helps a lot. He is willing to listen to students' feedback and modify his course, such as giving extra credit questions and taking attendance."
+},
+{
+"source": "Professor Profile Summary - Keshav Bhandari",
+"content": "Professor Name: Keshav Bhandari. Department: Computer Science department at Texas State University. Overall Quality: 2.8 / 5 (Based on 46 ratings). Would take again: 41%. Level of Difficulty: 3.9. Rating Distribution: Awesome 5 (17), Great 4 (4), Good 3 (1), OK 2 (2), Awful 1 (23). Similar Professors: Heena Rathore (4.80), Chul-Ho Lee (4.60), Trevi Kelley (4.60)."
+},
+{
+"source": "Student Review 1 - CS 4332 (May 29th, 2026)",
+"content": "Quality: 2.0. Difficulty: 5.0. For Credit: Yes. Attendance: Mandatory. Grade: A. Textbook: N/A. I have never had a good exp with this professor. We got stuck with him because the original professor disappeared at the starting of the semester. Very tough grader. Tags: TOUGH GRADER, LECTURE HEAVY, TEST HEAVY."
+},
+{
+"source": "Student Review 2 - CS2308 (Apr 13th, 2026)",
+"content": "Quality: 1.0. Difficulty: 5.0. Attendance: Mandatory. Grade: B. Textbook: N/A. Dont ever take this class. Worst experience of my life. I just sat in class and learned nothing. The instructor teaches incorrectly and provides no proper guidance. Most of the students seem confused about what is being taught, and it feels like the instructor does not fully understand the material. Tags: TOUGH GRADER."
+},
+{
+"source": "Student Review 3 - CS2308 (Mar 10th, 2026)",
+"content": "Quality: 1.0. Difficulty: 5.0. For Credit: Yes. Attendance: Mandatory. Grade: B. Textbook: N/A. Very very bad professor don't take his class. Tags: TOUGH GRADER."
+},
+{
+"source": "Student Review 4 - CS1342 (Feb 26th, 2026)",
+"content": "Quality: 5.0. Difficulty: 3.0. For Credit: Yes. Attendance: Not Mandatory. Would Take Again: Yes. Grade: A-. Textbook: N/A. Outstanding professor. Tags: AMAZING LECTURES, HILARIOUS, ONLINE SAVVY."
+},
+{
+"source": "Student Review 5 - CS4337 (Feb 14th, 2026)",
+"content": "Quality: 5.0. Difficulty: 3.0. For Credit: Yes. Attendance: Mandatory. Would Take Again: Yes. Grade: A. Had him last semester in Fall 2025. Was definitely overwhelming at first but honestly the class got better over time and the project was fun. Exams aren't too bad either being online. Final is a bit hard but you're allowed unlimited cheat sheets. Tags: PARTICIPATION MATTERS, LECTURE HEAVY, ACCESSIBLE OUTSIDE CLASS."
+},
+{
+"source": "Professor Profile Summary - Xiaomin Li",
+"content": "Professor Name: Xiaomin Li. Department: Computer Science department at Texas State University. Overall Quality: 3.4 / 5 (Based on 12 ratings). Would take again: 75%. Level of Difficulty: 2.5. Rating Distribution: Awesome 5 (2), Great 4 (5), Good 3 (3), OK 2 (0), Awful 1 (2). Similar Professors: Heena Rathore (4.80), Chul-Ho Lee (4.60), Trevi Kelley (4.60)."
+},
+{
+"source": "Student Review 1 - CS3354 (Jul 25th, 2025)",
+"content": "Quality: 3.0. Difficulty: 2.0. For Credit: Yes. Attendance: Not Mandatory. Grade: A. Textbook: Yes. Honestly, Xiaomin is very knowledgable about CS and it shows. However, she simply reads from slides most of the time. Not a big deal, but slightly insulting to our intelligence as some of us drive almost an hour down to San Marcos to take this course, her included. Tags: EXTRA CREDIT, GROUP PROJECTS, CLEAR GRADING CRITERIA."
+},
+{
+"source": "Student Review 2 - CS4347 (Jul 7th, 2025)",
+"content": "Quality: 5.0. Difficulty: 3.0. Attendance: Not Mandatory. Would Take Again: Yes. Grade: B+. Thought she was great, had clear feedback, good slides, and we did a project of our choice towards the end. Overall, great professor. I had her for OOP and went all the way to the Round Rock Campus from San Marcos when I heard she was teaching Machine Learning, it was worth it and I'd recommend."
+},
+{
+"source": "Student Review 3 - CS3354 (Dec 14th, 2024)",
+"content": "Quality: 3.0. Difficulty: 1.0. For Credit: Yes. Attendance: Not Mandatory. Would Take Again: Yes. Grade: A. Textbook: Yes. Nothing too special. Lectures involve her reading off slides. Records every lecture and slides are on canvas. Quizzes and final are open book, no midterm. One big group project split up in 3 parts. You basically build a chess engine with GUI. If you like lectures, I'd suggest going with Lehr, but she's nice and approachable. Tags: EXTRA CREDIT, GROUP PROJECTS, CLEAR GRADING CRITERIA."
+},
+{
+"source": "Student Review 4 - CS3354 (Dec 11th, 2024)",
+"content": "Quality: 4.0. Difficulty: 2.0. For Credit: Yes. Attendance: Not Mandatory. Would Take Again: Yes. Grade: A. Textbook: N/A. pretty chill. Tags: GROUP PROJECTS, CLEAR GRADING CRITERIA, GRADED BY FEW THINGS."
+},
+{
+"source": "Student Review 5 - CS3354 (Aug 5th, 2024)",
+"content": "Quality: 5.0. Difficulty: 1.0. For Credit: Yes. Attendance: Not Mandatory. Would Take Again: Yes. Grade: A. Textbook: N/A. I think Dr. Li is a great professor as her teaching is straight forward and she's lenient with grading. In the class you use Zybooks to learn Java which is very useful for the group project. While the final is worth 30% of the grade she makes it open note and open device to make it easier for students to do well. Overall would recommend taking her. Tags: GROUP PROJECTS, CARING, GRADED BY FEW THINGS."
+}
+]
+}
